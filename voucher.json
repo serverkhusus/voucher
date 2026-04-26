@@ -2,10 +2,12 @@
   "discount": [
     { 
       "voucher": "wowdiskon",
+      "discount_percent": 25,
       "expired_at": "2026-04-27T16:00:00Z"
     },
     { 
       "voucher": "mntapchuy",
+      "discount_percent": 20,
       "expired_at": "2026-04-27T16:00:00Z"
     }
   ]
